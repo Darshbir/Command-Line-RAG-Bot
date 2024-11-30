@@ -11,8 +11,8 @@
 ## Installation
 1. Clone this repository to your local machine.
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone [<repository_url>](https://github.com/Darshbir/Command-Line-RAG-Bot)
+   cd Command-Line-RAG-Bot
    ```
 
 2. Create a virtual environment and activate it.
